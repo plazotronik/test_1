@@ -2,7 +2,7 @@
 
 test's test's tests ))))
 
-![image](https:/....)
+![image](https://octodex.github.com/images/yaktocat.png)
 
 **Test repo** - this is cool test repo! This is my cool repo!)))
 
