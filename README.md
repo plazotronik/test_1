@@ -1,5 +1,6 @@
 # Hello people!
 
+<<<<<<< HEAD
 test's test's tests ))))
 
 ![image](https://octodex.github.com/images/yaktocat.png)
@@ -70,3 +71,6 @@ print('\nData Type sum :',sumh,type(sumh))
 ~~Если синтаксис питона вообще поддерживается...)))~~
 
 
+=======
+test's test
+>>>>>>> parent of 5a0d627... bla-bla-bla
